@@ -1,0 +1,640 @@
+psoralen>MESH:C515719 
+                                                                                   12 
+                                                       8-methoxypsoralen>MESH:D008730 
+                                                                                    8 
+                                                                  oxygen>MESH:D010100 
+                                                                                    8 
+                                                                     MTT>MESH:C022616 
+                                                                                    6 
+                                                               vitamin D>MESH:D014807 
+                                                                                    5 
+                                                               Vitamin D>MESH:D014807 
+                                                                                    5 
+                                                                 arsenic>MESH:D001151 
+                                                                                    4 
+                                                         corticosteroids>MESH:D000305 
+                                                                                    4 
+                                                             methoxsalen>MESH:D008730 
+                                                                                    4 
+                                                               psoralens>MESH:C515719 
+                                                                                    4 
+                                                                 steroid>MESH:D013256 
+                                                                                    4 
+                                                                     TCR>MESH:D017260 
+                                                                                    4 
+                                                            azathioprine>MESH:D001379 
+                                                                                    3 
+                                                               disulfide>MESH:D004220 
+                                                                                    3 
+                                                                    DPPH>MESH:C004931 
+                                                                                    3 
+                                                             ganglioside>MESH:D005732 
+                                                                                    3 
+                                                             glutathione>MESH:D005978 
+                                                                                    3 
+                                                                n-hexane>MESH:C026385 
+                                                                                    3 
+                                                            nitric oxide>MESH:D009569 
+                                                                                    3 
+                                                                Psoralen>MESH:C515719 
+                                                                                    3 
+                                                                     TAA>MESH:C052697 
+                                                                                    3 
+                                                                     tyrosine>No Data 
+                                                                                    3 
+                                                               bakuchiol>MESH:C012765 
+                                                                                    2 
+                                                               Bakuchiol>MESH:C012765 
+                                                                                    2 
+                                                                cafÃ©-au>MESH:D006046 
+                                                                                    2 
+                                                                 calcium>MESH:D002118 
+                                                                                    2 
+                                                                 ethanol>MESH:D000431 
+                                                                                    2 
+                                                          furanochromone>MESH:C477662 
+                                                                                    2 
+                                                                     GSH>MESH:D005978 
+                                                                                    2 
+                                                                H(2)O(2)>MESH:D014867 
+                                                                                    2 
+                                                                    H2O2>MESH:D014867 
+                                                                                    2 
+                                                       hydrogen peroxide>MESH:D006861 
+                                                                                    2 
+                                                                     ICI>MESH:C588016 
+                                                                                    2 
+                                                       maleimide-5-oxime>MESH:D010091 
+                                                                                    2 
+                                                               Montanide>MESH:C477385 
+                                                                                    2 
+                                                               n-butanol>MESH:D020001 
+                                                                                    2 
+                                                                     NAC>MESH:D000111 
+                                                                                    2 
+                                                            Nitric oxide>MESH:D009569 
+                                                                                    2 
+                                                                nitrogen>MESH:D009584 
+                                                                                    2 
+                                                        nortetillapyrone>MESH:C436664 
+                                                                                    2 
+                                                                 phenols>MESH:D010636 
+                                                                                    2 
+                                                               retinoids>MESH:D012176 
+                                                                                    2 
+                                                                steroids>MESH:D013256 
+                                                                                    2 
+                                                           tetillapyrone>MESH:C436663 
+                                                                                    2 
+                                                           triamcinolone>MESH:D014221 
+                                                                                    2 
+                                 (1-hydroxyethyl)-3,4-diol hydrochloride>MESH:C518382 
+                                                                                    1 
+   (5E,11E,15E,19E)-20-bromoeicosa-5,11,15,19-tetraene-9,17-diynoic acid>MESH:C025128 
+                                                                                    1 
+                                        1-(1H-indol-2-yloxy) propan-2-ol>MESH:C579251 
+                                                                                    1 
+                                        1-(1H-indol-3-yloxy) propan-2-ol>MESH:C579251 
+                                                                                    1 
+                                                            1,25-(OH)2D3>MESH:C101470 
+                                                                                    1 
+                     18'-bromooctadeca-7'E,9'E-diene-7',15'-diynoic acid>MESH:C575819 
+                                                                                    1 
+                  18-bromooctadeca-(9E,13E,17E)-triene-7,15-diynoic acid>MESH:C440687 
+                                                                                    1 
+                       18-bromooctadeca-(9E,17E)-diene-7,15-diynoic acid>MESH:C440687 
+                                                                                    1 
+                 18,18-dibromo-(9E)-octadeca-9,17-diene-5,7-diynoic acid>MESH:C095413 
+                                                                                    1 
+                                              2-methyl maleimide-5-oxime>MESH:D010091 
+                                                                                    1 
+                                               2-methylmaleimide-5-oxime>MESH:C527323 
+                                                                                    1 
+                                  3-hydroxy-3-methylyglutaryl-coenzyme A>MESH:D003067 
+                                                                                    1 
+                                                      3-hydroxybenzyl>MESH:C000598794 
+                                                                                    1 
+                                                      3-Hydroxybenzyl>MESH:C000598794 
+                                                                                    1 
+                                                      3-hydroxybenzyloxy>MESH:C116957 
+                                                                                    1 
+                                                    3-methoxy kaempferol>MESH:D044949 
+                                                                                    1 
+                                                     3-methoxy quercetin>MESH:C063423 
+                                                                                    1 
+                                                            3H-thymidine>MESH:D013936 
+                                                                                    1 
+                                                                      3S>MESH:D013455 
+                                                                                    1 
+                                                           4-aminophenol>MESH:C026729 
+                                                                                    1 
+                                                   4-substituted phenols>MESH:D034442 
+                                                                                    1 
+                                                      4-tert-butylphenol>MESH:C006862 
+                                                                                    1 
+                                                       4-tertbutylphenol>MESH:C082768 
+                                                                                    1 
+                                                4,5',8-trimethylpsoralen>MESH:D014307 
+                                                                                    1 
+                               5-(hydroxymethyl) dihydrofuran-2 (3H)-one>MESH:C073812 
+                                                                                    1 
+                                                          5-fluorouracil>MESH:D005472 
+                                                                                    1 
+                                                                    5-FU>MESH:D005472 
+                                                                                    1 
+                                                       5-methoxypsoralen>MESH:C022909 
+                                                                                    1 
+                                                                   5-MOP>MESH:D008730 
+                                                                                    1 
+                                                       5,6-dehydrosugiol>MESH:C531969 
+                                                                                    1 
+                                                           6-thioguanine>MESH:D013866 
+                                                                                    1 
+                                                    7-dehydrocholesterol>MESH:C016705 
+                                                                                    1 
+                                                            8-azaguanine>MESH:D001375 
+                                                                                    1 
+                                                      8-methoxy psoralen>MESH:C515719 
+                                                                                    1 
+                                                       8-Methoxypsoralen>MESH:D008730 
+                                                                                    1 
+                                                                   8-MOP>MESH:D008730 
+                                                                                    1 
+                                                            8-oxoguanine>MESH:C024829 
+                                                                                    1 
+                                                                    8MOP>MESH:D008730 
+                                                                                    1 
+                                                                abietane>MESH:D045784 
+                                                                                    1 
+                                                           acetylcholine>MESH:D000109 
+                                                                                    1 
+                                                           Acetylcholine>MESH:D000109 
+                                                                                    1 
+                                                   acetylenic fatty acid>MESH:C031203 
+                                                                                    1 
+                                                                 alcohol>MESH:D000431 
+                                                                                    1 
+                                                            alpha-pinene>MESH:C005451 
+                                                                                    1 
+                                                   alpha(1-3) Galactosyl>MESH:C061732 
+                                                                                    1 
+                                                    alpha(1,3)galactosyl>MESH:C061732 
+                                                                                    1 
+                                                                alphaGal>MESH:C076569 
+                                                                                    1 
+                                                               aluminium>MESH:D000535 
+                                                                                    1 
+                                                              amifostine>MESH:D004999 
+                                                                                    1 
+                                                              Amifostine>MESH:D004999 
+                                                                                    1 
+                                                                androgen>MESH:D000728 
+                                                                                    1 
+                                                                 Arsenic>MESH:D001151 
+                                                                                    1 
+                                                                     ATP>MESH:D000255 
+                                                                                    1 
+                                                                   Azerbaijan>No Data 
+                                                                                    1 
+                                                                     BCC>MESH:C543251 
+                                                                                    1 
+                                                                 benzene>MESH:D001554 
+                                                                                    1 
+                                                               berberine>MESH:D001599 
+                                                                                    1 
+                                                               Berberine>MESH:D001599 
+                                                                                    1 
+                                             beta-carotene-linoleic acid>MESH:D019207 
+                                                                                    1 
+                                             beta-Carotene-linoleic acid>MESH:D019207 
+                                                                                    1 
+                                                      beta-caryophyllene>MESH:C024714 
+                                                                                    1 
+                                                               bilirubin>MESH:D001663 
+                                                                                    1 
+                                                               bleomycin>MESH:D001761 
+                                                                                    1 
+                                                              BMS-936559>MESH:C095300 
+                                                                                    1 
+                                                                    BrdU>MESH:D001973 
+                                                                                    1 
+                                                                busulfan>MESH:D002066 
+                                                                                    1 
+                                                            calcipotriol>MESH:C055085 
+                                                                                    1 
+                                                                  Canine>MESH:C040794 
+                                                                                    1 
+                                                            capecitabine>MESH:C110904 
+                                                                                    1 
+                                                            Capecitabine>MESH:C110904 
+                                                                                    1 
+                                                               capsaicin>MESH:D002211 
+                                                                                    1 
+                                                              chloroform>MESH:D002725 
+                                                                                    1 
+                                                             chloroquine>MESH:D002738 
+                                                                                    1 
+                                                             cholesterol>MESH:D002784 
+                                                                                    1 
+                                                                  CHU-YO>MESH:C508541 
+                                                                                    1 
+                                                             ciclosporin>MESH:D016572 
+                                                                                    1 
+                                                               cisplatin>MESH:D002945 
+                                                                                    1 
+                                                              clobetasol>MESH:D002990 
+                                                                                    1 
+                                                                     CO2>MESH:D002245 
+                                                                                    1 
+                                                              coleonol B>MESH:D005576 
+                                                                                    1 
+                                                          corticosteroid>MESH:D000305 
+                                                                                    1 
+                                                                  CP-675>MESH:C048436 
+                                                                                    1 
+                                                    CRâ€‰+â€‰PRâ€‰+â€‰SD>MESH:C120400 
+                                                                                    1 
+                                                              creatinine>MESH:D003404 
+                                                                                    1 
+                                                                curcumin>MESH:D003474 
+                                                                                    1 
+                                                                Curcumin>MESH:D003474 
+                                                                                    1 
+                                           cyclobutane pyrimidine dimers>MESH:D011740 
+                                                                                    1 
+                                                        cyclophosphamide>MESH:D003520 
+                                                                                    1 
+                                                        Cyclophosphamide>MESH:D003520 
+                                                                                    1 
+                                                            cyclosporine>MESH:D016572 
+                                                                                    1 
+                                                             D-luciferin>MESH:C532924 
+                                                                                    1 
+                                                            D-Luciferins>MESH:C532924 
+                                                                                    1 
+                                                             dacarbazine>MESH:D003606 
+                                                                                    1 
+                                                                     DEN>MESH:D004052 
+                                                                                    1 
+                                  dibrominated C18-acetylenic fatty acid>MESH:C031203 
+                                                                                    1 
+                                                         dichloromethane>MESH:D008752 
+                                                                                    1 
+                                                      diethylnitrosamine>MESH:D004052 
+                                                                                    1 
+                                                       diferuloylmethane>MESH:D003474 
+                                                                                    1 
+                                                  dihydroxyphenylalanine>MESH:D004295 
+                                                                                    1 
+                                                                    dileucine>No Data 
+                                                                                    1 
+                                                               diterpene>MESH:D004224 
+                                                                                    1 
+                                                             diterpenoid>MESH:C503616 
+                                                                                    1 
+                                                            diterpenoids>MESH:C503616 
+                                                                                    1 
+                                                               dithranol>MESH:D000875 
+                                                                                    1 
+                                                                     DMA>MESH:C052864 
+                                                                                    1 
+                                                               docetaxel>MESH:C067311 
+                                                                                    1 
+                                                                    DOPA>MESH:D004295 
+                                                                                    1 
+                                                                dopamine>MESH:D004298 
+                                                                                    1 
+                                                                   Doxil>MESH:C506643 
+                                                                                    1 
+                                                             doxorubicin>MESH:D004317 
+                                                                                    1 
+                                                                     DTH>MESH:C434650 
+                                                                                    1 
+                                                                    DTIC>MESH:D003606 
+                                                                                    1 
+                                                                     DTX>MESH:C067311 
+                                                                                    1 
+                                                                   eosin>MESH:D004801 
+                                                                                    1 
+                                                                   epoxy>MESH:D004852 
+                                                                                    1 
+                                             ergosta-5,24 (28)-dien-3-ol>MESH:C002537 
+                                                                                    1 
+                                                           ethyl acetate>MESH:C007650 
+                                                                                    1 
+                                                              fatty acid>MESH:D005227 
+                                                                                    1 
+                                                              ferruginol>MESH:C431074 
+                                                                                    1 
+                                                              flavonoids>MESH:D005419 
+                                                                                    1 
+                                                              fluorogold>MESH:C049774 
+                                                                                    1 
+                                                                formalin>MESH:D005557 
+                                                                                    1 
+                                                               forskolin>MESH:D005576 
+                                                                                    1 
+                                                          furanocoumarin>MESH:D011564 
+                                                                                    1 
+                                                         furanocoumarins>MESH:D011564 
+                                                                                    1 
+                                                           furocoumarins>MESH:D011564 
+                                                                                    1 
+                                                           Furocoumarins>MESH:D011564 
+                                                                                    1 
+                                                               gefitinib>MESH:C419708 
+                                                                                    1 
+                                                               Gefitinib>MESH:C419708 
+                                                                                    1 
+                                                                  GM6001>MESH:C078131 
+                                                                                    1 
+                                    guanosine 3',5'-cyclic monophosphate>MESH:D006152 
+                                                                                    1 
+                                                           guggulsterone>MESH:C023617 
+                                                                                    1 
+                                                           Guggulsterone>MESH:C023617 
+                                                                                    1 
+                                                                 GVAX>MESH:C000593794 
+                                                                                    1 
+                                                        H3K4me3-H3K36me3>MESH:C024755 
+                                                                                    1 
+                                                            H3L(184-192)>MESH:D054390 
+                                                                                    1 
+                                                                       halide>No Data 
+                                                                                    1 
+                                                             Hematoxylin>MESH:D006416 
+                                                                                    1 
+                                                            hydroquinone>MESH:D006873 
+                                                                                    1 
+                                                            Hydroquinone>MESH:D006873 
+                                                                                    1 
+                                                          hydroxysafflor>MESH:C085278 
+                                                                                    1 
+                                               Î²-carotene-linoleic acid>MESH:D019207 
+                                                                                    1 
+                                                                     ICI>MESH:C481040 
+                                                                                    1 
+                                                                     IMC>MESH:C026986 
+                                                                                    1 
+                                                         indole alkaloid>MESH:D026121 
+                                                                                    1 
+                                                                  indole>MESH:C030374 
+                                                                                    1 
+                                                        interferon-alpha>MESH:D016898 
+                                                                                    1 
+                                                                  iodide>MESH:D007454 
+                                                                                    1 
+                                                            isoprenaline>MESH:D007545 
+                                                                                    1 
+                                                            isotretinoin>MESH:D015474 
+                                                                                    1 
+                                                               ISRCTN35898459>No Data 
+                                                                                    1 
+                                                               ISRCTN84854178>No Data 
+                                                                                    1 
+                                                              kaempferol>MESH:D044949 
+                                                                                    1 
+l6'-bromo-(7'E,11'E,l5'E)-hexadeca-7',11',l5'-triene-5',13'-diynoic acid>MESH:C417052 
+                                                                                    1 
+          l6-bromo (7E,11E,l5E)hexadeca-7,11,l5-triene-5,13-diynoic acid>MESH:C417052 
+                                                                                    1 
+                                                                 labdane>MESH:C433017 
+                                                                                    1 
+                                                                 lactate>MESH:D019344 
+                                                                                    1 
+                                                                 leucine>MESH:C038361 
+                                                                                    1 
+                                                                  lupeol>MESH:C010480 
+                                                                                    1 
+                                                                    MBTH>MESH:C002536 
+                                                                                    1 
+                                                                     MDA>MESH:D008315 
+                                                                                    1 
+                                                                     MDA>MESH:D058951 
+                                                                                    1 
+                                                                 Melanin>MESH:D008543 
+                                                                                    1 
+                                                                   MeLiM>MESH:D008094 
+                                                                                    1 
+                                                                  meroterpene>No Data 
+                                                                                    1 
+                                                                methanol>MESH:D000432 
+                                                                                    1 
+                                                            methotrexate>MESH:D008727 
+                                                                                    1 
+                                                                  methyl>MESH:C031105 
+                                                                                    1 
+                                                        methylisothiazolinone>No Data 
+                                                                                    1 
+                                                             mitomycin C>MESH:D016685 
+                                                                                    1 
+                                                                     MMA>MESH:C079575 
+                                                                                    1 
+                                                               MMS-Troll>MESH:C035596 
+                                                                                    1 
+                                                             monobenzone>MESH:C006429 
+                                                                                    1 
+                                                             Monobenzone>MESH:C006429 
+                                                                                    1 
+                                                monoterpene hydrocarbons>MESH:D039821 
+                                                                                    1 
+                                                           Montanide ISA>MESH:C477385 
+                                                                                    1 
+                                                              morpholine>MESH:C037574 
+                                                                                    1 
+                                                                   MuTyr>MESH:C042696 
+                                                                                    1 
+                                                   mycophenolate mofetil>MESH:C063008 
+                                                                                    1 
+                                        myricetin 3,7,3'-trimethyl ether>MESH:C040015 
+                                                                                    1 
+                                                       N-Acetyl Cysteine>MESH:D000111 
+                                                                                    1 
+                                                        N-acetylcysteine>MESH:D000111 
+                                                                                    1 
+                                                                       N>MESH:D009584 
+                                                                                    1 
+                                                                    Na-K>MESH:D011188 
+                                                                                    1 
+                                                                 nitrate>MESH:D009566 
+                                                                                    1 
+                                                                nitrotyrosine>No Data 
+                                                                                    1 
+                                                                    NLG-12036>No Data 
+                                                                                    1 
+                                                                 NO-cGMP>MESH:C068152 
+                                                                                    1 
+                                                                ofphenytoinin>No Data 
+                                                                                    1 
+                                                                 ONOO(-)>MESH:C113914 
+                                                                                    1 
+                                                                       oxigen>No Data 
+                                                                                    1 
+                                               oxygenated sesquiterpenes>MESH:D012717 
+                                                                                    1 
+                                                          p-benzoquinone>MESH:C004532 
+                                                                                    1 
+                                                                    Palestine>No Data 
+                                                                                    1 
+                                                                     PCL>MESH:C492325 
+                                                                                    1 
+                                                              penicillin>MESH:D010406 
+                                                                                    1 
+                                                               peroxides>MESH:D010545 
+                                                                                    1 
+                                                           peroxynitrite>MESH:D030421 
+                                                                                    1 
+                                                                           PG>No Data 
+                                                                                    1 
+                                                                      Ph>MESH:D005819 
+                                                                                    1 
+                                                                     PHA>MESH:C568742 
+                                                                                    1 
+                                                                     PhD>MESH:C411141 
+                                                                                    1 
+                                                                  phenol>MESH:D010636 
+                                                                                    1 
+                                                                phenolic>MESH:C017616 
+                                                                                    1 
+                                                                Phenolic>MESH:C017616 
+                                                                                    1 
+                                                               phenytoin>MESH:D010672 
+                                                                                    1 
+                                                               Phenytoin>MESH:D010672 
+                                                                                    1 
+                                                           phosphatydilserine>No Data 
+                                                                                    1 
+                                                              phosphorus>MESH:D010758 
+                                                                                    1 
+                                                                    PLGA>MESH:C043435 
+                                                                                    1 
+                                                        poly(ADP-ribose)>MESH:D011064 
+                                                                                    1 
+                                           poly(lactic-co-glycolic acid)>MESH:C043435 
+                                                                                    1 
+                                                        polycaprolactone>MESH:C492325 
+                                                                                    1 
+                                                    polydimethylsiloxane>MESH:C013830 
+                                                                                    1 
+                                                            Polydopamine>MESH:C568283 
+                                                                                    1 
+                                                             polymyxin B>MESH:D011112 
+                                                                                    1 
+                                                               porphyrin>MESH:D011166 
+                                                                                    1 
+                                                              porphyrins>MESH:D011166 
+                                                                                    1 
+                                                              Porphyrins>MESH:D011166 
+                                                                                    1 
+                                                            prednisolone>MESH:D011239 
+                                                                                    1 
+                                                             propranolol>MESH:D011433 
+                                                                                    1 
+                                                      prostaglandin E(2)>MESH:D015232 
+                                                                                    1 
+                                                                     PSO>MESH:C490013 
+                                                                                    1 
+                                                                  purine>MESH:D011687 
+                                                                                    1 
+                     pyrrolidine-(1-hydroxyethyl)-3,4-diol hydrochloride>MESH:C104862 
+                                                                                    1 
+                                                    pyrrolidine alkaloid>MESH:D011759 
+                                                                                    1 
+                                                   pyrrolidine alkaloids>MESH:D011759 
+                                                                                    1 
+                                                             pyrrolidine>MESH:D011759 
+                                                                                    1 
+                                                               quercetin>MESH:D011794 
+                                                                                    1 
+                                                                 quinone>MESH:D011809 
+                                                                                    1 
+                                                          ribonucleotide>MESH:D012265 
+                                                                                    1 
+                                                                     SDS>MESH:C032259 
+                                                                                    1 
+                                              sesquiterpene hydrocarbons>MESH:D012717 
+                                                                                    1 
+                                                                 statins>MESH:D019821 
+                                                                                    1 
+                                                                 Statins>MESH:D019821 
+                                                                                    1 
+                                                           sterol esters>MESH:D013261 
+                                                                                    1 
+                                                            stigmasterol>MESH:D013265 
+                                                                                    1 
+                                                                  sugiol>MESH:C501333 
+                                                                                    1 
+                                                                  Sugiol>MESH:C501333 
+                                                                                    1 
+                                                                    TAAs>MESH:C476587 
+                                                                                    1 
+                                                              tacalcitol>MESH:C023850 
+                                                                                    1 
+                                                              tacrolimus>MESH:D016559 
+                                                                                    1 
+                                                               tamoxifen>MESH:D013629 
+                                                                                    1 
+                                                                  Tau-Cl>MESH:C020947 
+                                                                                    1 
+                                                                     Tau>MESH:C020947 
+                                                                                    1 
+                                                      Taurine chloramine>MESH:C043410 
+                                                                                    1 
+                                                                 taurine>MESH:D013654 
+                                                                                    1 
+                                                                 Taurine>MESH:D013654 
+                                                                                    1 
+                                                                  TCR VB>MESH:C475702 
+                                                                                    1 
+                                                            temozolomide>MESH:C047246 
+                                                                                    1 
+                                                     tetrahydrobiopterin>MESH:C003402 
+                                                                                    1 
+                                                              tetrazepam>MESH:C005245 
+                                                                                    1 
+                                                                   thiol>MESH:D013438 
+                                                                                    1 
+                                                            thymoquinone>MESH:C003466 
+                                                                                    1 
+                                                            Thymoquinone>MESH:C003466 
+                                                                                    1 
+                                                               thyroxine>MESH:D013974 
+                                                                                    1 
+                                                                      TQ>MESH:C003466 
+                                                                                    1 
+                                                                     TRH>MESH:C024667 
+                                                                                    1 
+                                                            triglyceride>MESH:D014280 
+                                                                                    1 
+                                                        triiodothyronine>MESH:D014284 
+                                                                                    1 
+                                                              trioxsalen>MESH:D014307 
+                                                                                    1 
+                                                                     TYR>MESH:C024558 
+                                                                                    1 
+                                                                     Tyr>MESH:C042696 
+                                                                                    1 
+                                                                     Tyrosine>No Data 
+                                                                                    1 
+                                                           uroporphyrins>MESH:D014578 
+                                                                                    1 
+                                                              vandetanib>MESH:C452423 
+                                                                                    1 
+                                                             vinblastine>MESH:D014747 
+                                                                                    1 
+                                                             vincristine>MESH:D014750 
+                                                                                    1 
+                                                 vitamin D (1,25(OH)2D3)>MESH:C040488 
+                                                                                    1 
+                                                            Vitamin D(3)>MESH:D002762 
+                                                                                    1 
+                                                              vitamin D3>MESH:D002762 
+                                                                                    1 
+                               VITILIGO PATCH OF AN AFRICAN TANZANIAN>MESH:C000594696 
+                                                                                    1 
+                                                       xestosterol ester>MESH:D004952 
+                                                                                    1 
+                                                   xestosterol palmitate>MESH:D010168 
+                                                                                    1 
+                                                                  xestosterol>No Data 
+                                                                                    1 
