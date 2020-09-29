@@ -16,3 +16,5 @@ abstracts. These rare terms indicate a relation that has not yet been establishe
 have used functions (programmed in R language) on Vitiligo disease dataset as a
 source of data. With the help of experts, new relations might be discovered and
 this can help in better understanding of Vitiligo disease.
+
+<img width="1200" alt="image1" src="https://user-images.githubusercontent.com/45970634/94532536-9d57f980-025b-11eb-82b2-5d02187c5612.png">
